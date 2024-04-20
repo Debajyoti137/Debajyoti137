@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/debajyotichou18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debajyotichou18" height="30" width="40" /></a>
+<a href="https://leetcode.com/deba15/" target="blank"><img align="center" src="https://iconscout.com/free-icon/leetcode-3628885" alt="deba15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debajyoti-choudhury-5618651ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debajyoti-choudhury-5618651ab" height="30" width="40" /></a>
 <a href="https://instagram.com/deb.ch_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="killer_noob_07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/debajyotichoudh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@debajyotichoudh1" height="30" width="40" /></a>
