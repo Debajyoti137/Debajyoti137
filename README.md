@@ -36,6 +36,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debajyoti137&show_icons=true&locale=en" alt="debajyoti137" /></p>
 
+#MY STATS
+
+[![](https://raw.githubusercontent.com/Debajyoti137/Debajyoti/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Debajyoti137/Debajyoti/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Debajyoti137/Debajyoti/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Debajyoti137/Debajyoti/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Debajyoti137/Debajyoti/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debajyoti137&" alt="debajyoti137" /></p>
 
 
